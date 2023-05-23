@@ -1,4 +1,4 @@
-- Hi, I’m Ryan Holmes, I'm a sophomore computer science major at the University of Arkansas, Fayetteville. I'm interested in programming and ML/AI.
+- Hi! I’m Ryan, I'm a 3rd year computer science major at the University of Arkansas, Fayetteville, where I also work as a research technician. I'm currently interested in learning about computer vision and AI.
 - You can reach me via email at rth005@uark.edu
 
 <!---
